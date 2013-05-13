@@ -35,7 +35,7 @@ public class MathTest
     @Test
     public void testSum10()
     {
-        assertTrue(1 == Math.sum(1, 0));
+        assertTrue(1 == Math.sum(1, 1));
     }
 
     /**
